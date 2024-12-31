@@ -3,7 +3,7 @@
 
 <p align="center">
   👀 I’m interested in data.<br/>
-  🌱 I’m currently learning Power BI, Python, SQL, Excel<br/>
+  🌱 I’m currently learning <b>Power BI</b>, <b>Python</b>, <b>SQL</b>, <b>Excel</b><br/>
   💞️ I’m looking to collaborate on ...<br/>
   📫 How to reach me: <a href="mailto:soumendramatrix@gmail.com">soumendramatrix@gmail.com</a><br/>
   ⚡ Fun fact: A Data Annotator and Support Associate aspiring to become an IT Professional.
