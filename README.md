@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Soumendra Mishra
-- 👀 I’m interested in data.
-- 🌱 I’m currently learning Power BI, Python, SQL, Excel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me soumendramatrix@gmail.com
-- ⚡ Fun fact: A Data Annotator and Support Associate trying to be an IT Professional.
+<h1 align="center">👋 Hi, I’m Soumendra Mishra</h1>
+<h3 align="center">Aspiring Data Analyst</h3>
+
+<p align="center">
+  👀 I’m interested in data.<br/>
+  🌱 I’m currently learning Power BI, Python, SQL, Excel<br/>
+  💞️ I’m looking to collaborate on ...<br/>
+  📫 How to reach me: <a href="mailto:soumendramatrix@gmail.com">soumendramatrix@gmail.com</a><br/>
+  ⚡ Fun fact: A Data Annotator and Support Associate aspiring to become an IT Professional.
+</p>
 
 ## Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/soumendramishra/)
